@@ -1,6 +1,6 @@
 - 👋 Hi there! I'm Gustavo Cortés - "Seeker".
-- 🔭 I’m interested in learning programming lenguages.
-- 🌱 I’m currently studying computer systems engineering.
-- 🤔 I’m looking for an internship.
-- ⚡ Fun fact: I'm a black belt in Taekwondo.
+- 📊 I’m interested in Data science and Data analysis.
+- 🎓 I’m currently studying computer systems engineering.
+- 🚜 I’m a PDM intern in John Deere.
+- 🥋 Fun fact: I'm a black belt in Taekwondo.
 - 📫 How to reach me: 844-140-6339 or gustavocortes.orta@gmail.com
