@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm Gustavo Cortés - "Seeker".
+- 👋 Hi there! I'm Gustavo Cortés - "guco".
 - 📊 I’m interested in Data science and Data analysis.
 - 🎓 I’m currently studying computer systems engineering.
 - 🚜 I’m a PDM intern in John Deere.
