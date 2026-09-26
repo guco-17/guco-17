@@ -51,6 +51,10 @@ My goal is to bridge the gap between software engineering and data analytics, sp
 
 ## 📁 Featured Projects
 
+### 🏊‍♂️ [UNIRIDE_University_Carpooling](https://github.com/Arevalo023/DesarrolloProyectosSwFco)
+* **Tech Stack:**  React, Node.js, Express, MySQL, Docker, Scrum.
+* **Description:** Engineered and deployed a full-stack university carpooling web application using React, Express REST APIs, and MySQL, with containerized microservices orchestrated through Docker Compose. Served as Scrum Master and Full-Stack Developer, leading sprint planning and backlog management while designing RESTful APIs and optimizing multi-container deployments for efficient student ride-sharing logistics.
+
 ### 🏊‍♂️ [Pool Chlorine Calculator](https://github.com/Chapinguin/Calculadora-De-Cloro-Para-Piscinas)
 * **Tech Stack:** .NET MAUI, Supabase (PostgreSQL), C#.
 * **Description:** A mobile application designed to streamline swimming pool maintenance. Features a real-time dashboard and a secure cloud-connected database architecture to log and calculate chemical treatments.
