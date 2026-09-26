@@ -51,7 +51,7 @@ My goal is to bridge the gap between software engineering and data analytics, sp
 
 ## 📁 Featured Projects
 
-### 🏊‍♂️ [UNIRIDE_University_Carpooling](https://github.com/Arevalo023/DesarrolloProyectosSwFco)
+### 🚗 [UNIRIDE_University_Carpooling](https://github.com/Arevalo023/DesarrolloProyectosSwFco)
 * **Tech Stack:**  React, Node.js, Express, MySQL, Docker, Scrum.
 * **Description:** Engineered and deployed a full-stack university carpooling web application using React, Express REST APIs, and MySQL, with containerized microservices orchestrated through Docker Compose. Served as Scrum Master and Full-Stack Developer, leading sprint planning and backlog management while designing RESTful APIs and optimizing multi-container deployments for efficient student ride-sharing logistics.
 
